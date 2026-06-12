@@ -13,7 +13,15 @@ type CopyProps = {
   copy: HomeCopy;
 };
 
-const navHrefs = ["/#home", "/energy", "/services", "/#doctors", "/#clinic", "/#contact"];
+const navHrefs = [
+  "/#home",
+  "/energy",
+  "/future-chic",
+  "/services",
+  "/#doctors",
+  "/#clinic",
+  "/#contact",
+];
 
 export function Header({ copy }: CopyProps) {
   return (

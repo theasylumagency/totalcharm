@@ -1,7 +1,7 @@
 export const translations = {
   ka: {
     localeLabel: "ქართული",
-    nav: ["მთავარი", "ახალი ხედვა", "სერვისები", "ექიმები", "კლინიკა", "კონტაქტი"],
+    nav: ["მთავარი", "ახალი ხედვა", "Future Chic", "სერვისები", "ექიმები", "კლინიკა", "კონტაქტი"],
     appointment: "კონსულტაციის დაჯავშნა",
     hero: {
       eyebrow: "პრემიუმ სტომატოლოგიური კლინიკა ვაკეში",
@@ -76,7 +76,7 @@ export const translations = {
   },
   en: {
     localeLabel: "English",
-    nav: ["Home", "New Vision", "Services", "Doctors", "Clinic", "Contact"],
+    nav: ["Home", "New Vision", "Future Chic", "Services", "Doctors", "Clinic", "Contact"],
     appointment: "Book a Consultation",
     hero: {
       eyebrow: "Premium dental clinic in Vake",
@@ -88,7 +88,7 @@ export const translations = {
   },
   ru: {
     localeLabel: "Русский",
-    nav: ["Главная", "Новый взгляд", "Услуги", "Врачи", "Клиника", "Контакты"],
+    nav: ["Главная", "Новый взгляд", "Future Chic", "Услуги", "Врачи", "Клиника", "Контакты"],
     appointment: "Записаться",
     hero: {
       eyebrow: "Премиальная стоматология в Ваке",
